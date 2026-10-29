@@ -4,9 +4,9 @@ import { accent, body, display } from "./fonts";
 
 // Placeholder numbers and copy — replace with real ones.
 const stats = [
-  { value: "5+", label: "Years experience" },
-  { value: "50+", label: "Brands managed" },
-  { value: "2M+", label: "Organic reach" },
+  { value: "3+", label: "Years experience" },
+/*   { value: "50+", label: "Brands managed" },
+ */  { value: "100K+", label: "Organic reach" },
 ];
 
 const skills = [
@@ -202,7 +202,7 @@ export default function HeroSection() {
                 </span>
               </span>
               <span className="leading-tight">
-                <span className="block text-sm font-semibold">1.2M+</span>
+                <span className="block text-sm font-semibold">2K+</span>
                 <span className="block text-[0.65rem] text-white/50">followers grown</span>
               </span>
             </div>

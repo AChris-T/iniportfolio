@@ -13,10 +13,10 @@ const contact = {
 };
 
 const socials = [
-  { label: "Instagram", handle: "@yourhandle", href: "#" },
-  { label: "TikTok", handle: "@yourhandle", href: "#" },
-  { label: "LinkedIn", handle: "Inioluwa", href: "#" },
-  { label: "Facebook", handle: "Inioluwa", href: "#" },
+  { label: "Instagram", handle: "@I_N_I.OLUWA", href: "https://www.instagram.com/i_n_i.oluwa?mdxt=MWFjY25qcGg1YWNiaw%3D%3D&utm_source=qr" },
+  { label: "TikTok", handle: "@inis_cam", href: "https://www.tiktok.com/@inis_cam" },
+  // { label: "LinkedIn", handle: "Inioluwa", href: "https://www.linkedin.com/in/inioluwa" },
+  // { label: "Facebook", handle: "Inioluwa", href: "https://www.facebook.com/inioluwa" },
 ];
 
 const services = ["Social media strategy", "Content creation", "Community management", "Full account management"];
